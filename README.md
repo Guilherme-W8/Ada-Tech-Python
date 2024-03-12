@@ -7,8 +7,8 @@
 - [x] Operadores Aritméticos e Booleanos
 - [x] Conversão de Tipos
 - [x] Estruturas Condicionais
-- [] Laços de Repetição ("While")
-- [] Laços de Repetição ("For")
+- [ ] Laços de Repetição ("While")
+- [ ] Laços de Repetição ("For")
   
 <details>
   
