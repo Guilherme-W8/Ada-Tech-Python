@@ -1,4 +1,4 @@
-# Seja bem-vindo a minha jornada de aprendizado da Linguagem Python!
+# Seja bem-vindo a minha jornada de aprendizado da Linguagem Python! ⚡
 
 ### Check-List das Aulas!
 
