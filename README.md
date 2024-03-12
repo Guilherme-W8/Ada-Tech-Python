@@ -5,6 +5,8 @@
 - [x] Entrada e Saída de Dados
 - [x] Variáveis
 - [x] Operadores Aritméticos e Booleanos
+- [x] Conversão de tipos
+- [ ] Estruturas condicionais
   
 <details>
   
