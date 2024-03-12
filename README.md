@@ -9,7 +9,7 @@
 - [x] Estruturas Condicionais
 - [x] Laços de Repetição ("While")
 - [x] Laços de Repetição ("For")
-- [ ] Estruturas de Listas
+- [x] Estruturas de Listas
 - [ ] Métodos e Funções de Listas
   
 <details>
