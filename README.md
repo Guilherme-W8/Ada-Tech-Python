@@ -11,7 +11,7 @@
 - [x] Laços de Repetição ("For")
 - [x] Estruturas de Listas
 - [x] Métodos e Funções de Listas
-- [ ] Dicionários
+- [x] Dicionários
   
 <details>
   
@@ -20,6 +20,9 @@
 <br>
 
 * O curso está disponivel no site da [Ada Tech](https://comunidade.ada.tech/)
+
+* Certificado: [Certificado Python](https://ada.tech/certificado?code=5a8d1804-b5cb-84df-3062-34e3241b3c7a)
+
 * Email para contato: <i>guilhermecorreia77@hotmail.com</i>
 
 </details>
