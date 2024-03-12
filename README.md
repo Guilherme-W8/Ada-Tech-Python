@@ -8,7 +8,9 @@
 - [x] Conversão de Tipos
 - [x] Estruturas Condicionais
 - [x] Laços de Repetição ("While")
-- [ ] Laços de Repetição ("For")
+- [x] Laços de Repetição ("For")
+- [ ] Estruturas de Listas
+- [ ] Métodos e Funções de Listas
   
 <details>
   
