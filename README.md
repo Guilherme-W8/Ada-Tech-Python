@@ -5,8 +5,10 @@
 - [x] Entrada e Saída de Dados
 - [x] Variáveis
 - [x] Operadores Aritméticos e Booleanos
-- [x] Conversão de tipos
-- [ ] Estruturas condicionais
+- [x] Conversão de Tipos
+- [x] Estruturas Condicionais
+- [] Laços de Repetição ("While")
+- [] Laços de Repetição ("For")
   
 <details>
   
