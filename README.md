@@ -10,7 +10,8 @@
 - [x] Laços de Repetição ("While")
 - [x] Laços de Repetição ("For")
 - [x] Estruturas de Listas
-- [ ] Métodos e Funções de Listas
+- [x] Métodos e Funções de Listas
+- [ ] Dicionários
   
 <details>
   
